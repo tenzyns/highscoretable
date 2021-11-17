@@ -36,3 +36,30 @@
     transform: rotate(360deg);
   }
 }
+/* ------HighScoreTable CSS------- */
+.box {
+  width: 90%;
+  border: 3px solid green;
+  padding: 10px;
+  margin: 2rem;
+  font-size: 1.5rem;
+  
+}
+.table-container {
+  border: 10px solid rgb(105, 216, 26);
+}
+table {
+  min-width: 80%;
+  border: 2px solid rgb(7, 7, 7);
+  margin: 2rem 0;
+}
+td {
+  border-bottom: 2px solid rgb(51, 40, 202);
+  height: 2rem;
+}
+.player-score {
+  color: #f20808d5;
+}
+h1, caption {
+  color:rgb(110, 103, 202)
+}
